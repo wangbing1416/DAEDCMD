@@ -1,4 +1,4 @@
-# DAEPCMD
+# DAEDCMD
 
 This repo is the released code of our work 
 **Remember Past, Anticipate Future: Learning Continual Multimodal Misinformation Detectors**
